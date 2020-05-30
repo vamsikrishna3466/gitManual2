@@ -1,0 +1,3 @@
+Hii, I am practing feature branching.
+git branch -- To check which branch you are in 
+git checkout 
